@@ -1,0 +1,21 @@
+.side-1 {
+    margin-top: 200px;
+}
+
+h1 {
+    font-size: 90px;
+    font-weight: bold;
+    line-height: 5rem;
+}
+
+.side-2 {
+    background-image: url("images/image-hero-desktop.png");
+    background-size: cover;
+    background-position: center;
+    width: 40%;
+    height: 825px;
+}
+
+.dropdown-menu {
+    border: none;
+}
